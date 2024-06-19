@@ -1,5 +1,5 @@
-# 🍍 PineappleFarms
-🔭 Working on WebDev classes <br>🤝 Looking for help with FinTech<br>🌱 Currently learning SWE and DS<br>💬 Ask me why my name is PineappleFarms<br>⚡ My favorite food is Salmon (Bet you thought it was pineapple 😉)
+# Diego Lopez
+🔭 Working on WebDev classes <br>🤝 Looking for help with FinTech<br>🌱 Currently learning SWE and DS<br>⚡ My favorite food is Salmon 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-j-lopez) 
 
